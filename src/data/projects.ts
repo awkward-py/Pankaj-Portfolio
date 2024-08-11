@@ -59,7 +59,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     description:
       "The Kundan's is a user-friendly design that showcases the restaurant's sweet and savory menu, and branch locations. It includes interactive elements like a reservation system and detailed sections about the restaurant’s story and values.",
     sourceCodeHref: "https://github.com/BUMBAIYA/kanban",
-    liveWebsiteHref: "https://kannban-board.vercel.app",
+    liveWebsiteHref: "https://kundans-git-main-awkward-pys-projects.vercel.app/",
   },
   {
     name: "Next Space Website",
