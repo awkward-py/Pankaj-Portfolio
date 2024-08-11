@@ -96,7 +96,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     ],
     description:
       "Spotify clone using the powerful MERN stack (MongoDB, Express, React, Node.js) along with Vite for a fast and efficient development experience.",
-    sourceCodeHref: "https://github.com/BUMBAIYA/CovidTracker",
-    liveWebsiteHref: "https://bumbaiya.github.io/CovidTracker",
+    sourceCodeHref: "https://",
+    liveWebsiteHref:"https://pankaj-portfolio-ochre.vercel.app/Spotify",
   },
 ];
