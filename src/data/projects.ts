@@ -84,8 +84,8 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     ],
     description:
       "I recreated my college website design using Html Css, making it responsive with an enhanced UI/UX for a better user experience.",
-    sourceCodeHref: "https://github.com/BUMBAIYA/amitchauhan-v2",
-    liveWebsiteHref: siteMetadata.siteUrl,
+    sourceCodeHref: "",
+    liveWebsiteHref: "https://ubter-git-main-awkward-pys-projects.vercel.app/",
   },
   {
     name: "Spotify",
@@ -97,6 +97,6 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     description:
       "Spotify clone using the powerful MERN stack (MongoDB, Express, React, Node.js) along with Vite for a fast and efficient development experience.",
     sourceCodeHref: "https://",
-    liveWebsiteHref:"https://pankaj-portfolio-ochre.vercel.app/Spotify",
+  liveWebsiteHref:"https://pankaj-portfolio-ochre.vercel.app/Spotify",
   },
 ];
