@@ -48,7 +48,7 @@ export default function Footer() {
             href={siteMetadata.framer}
             target="_blank"
             className="h-6 w-6"
-            aria-label="link to FramerMotionIcon"
+            aria-label="link to Framer"
           >
             <FramerMotionIcon className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
           </a>
