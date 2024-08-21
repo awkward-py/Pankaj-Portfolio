@@ -50,7 +50,7 @@ export default function Footer() {
             className="h-6 w-6"
             aria-label="link to ArrowTopRight"
           >
-            <ArrowTopRight className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
+            <ArrowTopRightIcon className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
           </a>
         </div>
       </div>
