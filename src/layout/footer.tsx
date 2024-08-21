@@ -43,6 +43,15 @@ export default function Footer() {
           >
             <TwitterIcon className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
           </a>
+
+          <a
+            href={siteMetadata.twitter}
+            target="_blank"
+            className="h-6 w-6"
+            aria-label="link to Twitter"
+          >
+            <TwitterIcon className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
+          </a>
         </div>
       </div>
     </footer>
