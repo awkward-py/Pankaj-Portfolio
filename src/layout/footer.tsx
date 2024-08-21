@@ -45,7 +45,7 @@ export default function Footer() {
           </a>
 
           <a
-            href={siteMetadata.FramerMotionIcon}
+            href={siteMetadata.framer}
             target="_blank"
             className="h-6 w-6"
             aria-label="link to FramerMotionIcon"
