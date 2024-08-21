@@ -45,12 +45,12 @@ export default function Footer() {
           </a>
 
           <a
-            href={siteMetadata.ArrowTopRight}
+            href={siteMetadata.FramerMotionIcon}
             target="_blank"
             className="h-6 w-6"
-            aria-label="link to ArrowTopRight"
+            aria-label="link to FramerMotionIcon"
           >
-            <ArrowTopRight className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
+            <FramerMotionIcon className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
           </a>
         </div>
       </div>
