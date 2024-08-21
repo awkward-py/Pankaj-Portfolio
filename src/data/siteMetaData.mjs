@@ -15,7 +15,7 @@ export const siteMetadata = {
   email: "awkwardpy@gmail.com",
   github: "https://github.com/awkward-py",
   twitter: "https://twitter.com/awkwardpy_",
-  ArrowTopRight: "https://kundans.vercel.app/Pankaj%20Rawat-Summer%20Training%20Project.pdf",
+  FramerMotionIcon: "https://kundans.vercel.app/Pankaj%20Rawat-Summer%20Training%20Project.pdf",
   locale: "en-US",
   googleSiteVerification: "",
 };
