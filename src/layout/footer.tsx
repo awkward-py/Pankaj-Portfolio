@@ -48,7 +48,7 @@ export default function Footer() {
             href={siteMetadata.ArrowTopRight}
             target="_blank"
             className="h-6 w-6"
-            aria-label="link to Twitter"
+            aria-label="link to ArrowTopRight"
           >
             <ArrowTopRight className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
           </a>
