@@ -15,7 +15,7 @@ export const siteMetadata = {
   email: "awkwardpy@gmail.com",
   github: "https://github.com/awkward-py",
   twitter: "https://twitter.com/awkwardpy_",
-  framer: "https://github.com/awkward-py/Open-Source-Off-Topics/blob/main/assets/OT-PPT.pptx",
+  framer: "https://github.com/awkward-py/Open-Source-Off-Topics/raw/refs/heads/main/assets/OT-PPT.pptx",
   locale: "en-US",
   googleSiteVerification: "",
 };
