@@ -6,7 +6,7 @@ export const siteMetadata = {
   language: "en-us",
   theme: "light",
   siteName: "pankajrawat.me",
-  siteUrl: "https://pankajrawat.me",
+  siteUrl: "https://offtopics.in",
   siteRepo: "https://github.com/awkward-py",
   siteLogo: "/favicon.png",
   image: "/static/homepage.png",
